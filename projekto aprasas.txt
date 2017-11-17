@@ -1,0 +1,45 @@
+*Mano sugebejimai:
+	*C++
+	*PHP
+	*JavaScript
+	*CSS
+	*HTML
+	*SQL
+	*montuoti padangas(proto paknisimui, kad nebijai ranku išsitept)	reikia foto
+	*truputi elektronikos suvokimo(mokslai kolegijoje ir pan)	reikia foto
+	*inžinerinis suvokimas(taipo gi mokslai kolegijoje ir vgtu)	reikia foto
+	*random apie mane(šokiai, draugai, asmenine veikla, pomegiai, interesai)	reikia foto
+
+*vietoj raguociu panaudok žinomu kalbu logotipus, 
+*mobile dizaine ten kur rodykle bus dropdown su tai mygtukais (portfolio, darbu pavyzdžiai, kontaktai(ir asmenines žinutes siuntimas i mano pašta(turinys, kas rašo,  el.paštas, žinute), išvardintos veiklos(ju aprašymai).
+*puslapius apjung, kad tūrėtum vieną headerį ir bazę (pažiūrėk kaip parduotuvė padaryta)
+*kaip referance paimk dizaino heghtus ir widthus, bet galutiniam formate naudok savo
+
+footer-bottom-top strukturinis pvz
+
+<div>
+	<div>
+		<div class="txt-bold">
+			get in touch
+			<font></font>
+		</div>
+		<div class="txt-semiBold">
+			<font></font>
+			please use the form below to contact us:
+		</div>
+	</div>
+	<div class="structure-helper">
+		<form>
+		</form>
+		<div class="txt2">
+			<div>
+				some random tex
+				<font></font>
+			</div>
+			<div>
+				<font></font>
+				contact urls
+			</div>
+		</div>
+	</div>
+</div>
