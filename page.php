@@ -92,9 +92,9 @@
 				</aside>
 				<hr>
 				<div class="helper1">
-					<div class="about col-lg-12">
-						<img class="profile col-lg-12" src="#" alt="profile foto">
-						<span class="about-by-img col-lg-7 col-md-7 col-sm-12">
+					<div class="about col-lg-11">
+						<img class="profile col-lg-3 col-md-3 col-sm-12" src="#" alt="profile foto">
+						<span class="about-by-img col-lg-9 col-md-9 col-sm-12">
 							<section>
 								<h1>
 									<!-- Eivydas Petryla -->
@@ -180,7 +180,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="footer-bottom col-lg-12 col-md-8 col-sm-12">
+				<div class="footer-bottom col-lg-12 col-md-12 col-sm-12">
 					Nevok mano dizaino ir mes sutarsim ;)
 				</div>
 			</footer>

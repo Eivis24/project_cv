@@ -10,6 +10,7 @@ html,body{
 	padding: 0 auto;
 	margin: 0 auto;
 	height: 100%;
+	position: relative;
 	overflow-x: hidden; /*panaikina apatini slideri*/
 }
 	a{
@@ -17,7 +18,7 @@ html,body{
 	}
 	a:hover{
 		text-decoration: none;	
-		background-color: rgba(255,255,255,0.2);	
+		/*background-color: rgba(255,255,255,0.2);	*/
 	}
 	/*header,main{
 		height: 100%;
@@ -108,13 +109,16 @@ mian{
 	.helper1{
 		height: 40vh;
 		background-color: #2eb398;
+		display: flex;
+		justify-content:center;
 	}
 	.about{
 		display: flex;
+		/*justify-content:center;*/
 		flex-direction:row;
-		margin: 1rem 3rem;
-	    border-right: 2px solid #e4e9eb;
-	    border-left: 2px solid #e4e9eb;
+		margin: 1rem 5rem;
+	    border-right: 1px solid #606060;
+	    border-left: 1px solid #606060;
 
 	}
 
@@ -141,14 +145,19 @@ mian{
 				text-align: justify;
 			}
 		/*social bar*/
+		article{
+			position: relative;
+		}
 		.social{
-			background-color: rgba(255, 255, 255, 0.65);
+		background-color: rgba(255, 255, 255, 0.65);
+		position: absolute;
+		right: 0;
 		}
 		.social i{
 			color: #2eb398;
-			font-size: 1.5rem;
+			font-size: 3rem;
 		}
-		.social a:hover{
+		.social i:hover{
 			background-color: #6ccbbe;			
 	}
 	.profile{
@@ -159,8 +168,9 @@ mian{
 
 	/*footer*/
 footer{
-	position: static;
+	position: absolute;
 	bottom: 0;	
+	 overflow:hidden;
 
 	/*
 	del situ eiluciu kyla footerio problemos kai ekranas nera per visa ekrana
