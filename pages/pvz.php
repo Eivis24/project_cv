@@ -60,7 +60,7 @@
 			<main>
 				
 			</main>
-			<footer>
+			<footer class="footer affix-bottom">
 				<div class="footer-top col-lg-12">
 					<div class="contact">
 						<div class="single">
@@ -74,14 +74,14 @@
 							</div>
 						</div>
 						<div class="structure-helper">
-							<form class"col-lg-8">
+							<form class"col-lg-8 col-md-8 col-sm-12">
 								<input type="text" name="name" placeholder="Jūsų vardas">
 								<input type="text" name="email" placeholder="Jūsų elektroninio pašto adresas">
 								<input type="text" name="subject" placeholder="Tema">
 								<textarea rows="6" name="content" placeholder="Jūsų žinutė"></textarea>
 								<button type="submit" class="btn">Siųsti</button>
 							</form>
-							<div class="text col-lg-3">
+							<div class="text col-lg-3 col-md-3 col-sm-12">
 								<div>
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -104,7 +104,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="footer-bottom col-lg-12">
+				<div class="footer-bottom col-lg-12 col-md-12 col-sm-12">
 					Nevok mano dizaino ir mes sutarsim ;)
 				</div>
 			</footer>

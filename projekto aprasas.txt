@@ -11,10 +11,13 @@
 	*random apie mane(šokiai, draugai, asmenine veikla, pomegiai, interesai)	reikia foto
 
 *vietoj raguociu panaudok žinomu kalbu logotipus, 
-*mobile dizaine ten kur rodykle bus dropdown su tai mygtukais (portfolio, darbu pavyzdžiai, kontaktai(ir asmenines žinutes siuntimas i mano pašta(turinys, kas rašo,  el.paštas, žinute), išvardintos veiklos(ju aprašymai).
-*puslapius apjung, kad tūrėtum vieną headerį ir bazę (pažiūrėk kaip parduotuvė padaryta)
-*kaip referance paimk dizaino heghtus ir widthus, bet galutiniam formate naudok savo
-
+*mobile dizaine ten kur rodykle bus dropdown su tai mygtukais (portfolio, 
+ darbu pavyzdžiai, kontaktai(ir asmenines žinutes siuntimas i mano pašta(turinys, kas rašo,  el.paštas, žinute), išvardintos veiklos(ju aprašymai).
+*puslapius apjung, kad tūrėtum vieną headerį ir bazę (pažiūrėk kaip 
+ parduotuvė padaryta)
+*kaip referance paimk dizaino heghtus ir widthus, bet galutiniam formate 
+ naudok savo
+* <!DOCTYPE html> sulauzo puslapi(hexagonus)
 footer-bottom-top strukturinis pvz
 
 <div>

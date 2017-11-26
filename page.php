@@ -59,50 +59,120 @@
 			</div>
 			<main>
 				<aside>
-					<span class="logo_img">
-						<img src="images/c++.png" alt="c++ logo">
-					</span>
-		<!-- 		<span class="logo_img">
-						<img src="images/php.png" alt="php logo">
-					</span>
-					<span class="logo_img">
-						<img src="images/js.png" alt="javascrip logo">
-					</span>
-					<span class="logo_img">
-						<img src="images/html.png" alt="html5 logo">
-					</span>
-					<span class="logo_img">
-						<img src="images/css.png" alt="css logo">
-					</span>
-					<span class="logo_img">
-						<img src="images/myadminsql.png" alt="php my admin logo">
-					</span>
-					<span class="logo_img">
-						<img src="#" alt="to be created">
-					</span>
-					<span class="logo_img">
-						<img src="#" alt="to be created">
-					</span>
-					<span class="logo_img">
-						<img src="#" alt="to be created">
-					</span>
-					<span class="logo_img">
-						<img src="#" alt="to be created">
-					</span> -->
+					<div class="three-top">
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+					</div>
+					<div class="four-center">
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+					</div>
+					<div class="three-top">
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+						<span class="logo_img">
+							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+								<div class="hex-rotate">
+									<div class="hex-rotate-photo">
+									<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+									</div>
+								</div>
+							</div>
+						</span>
+					</div>
 				</aside>
 				<hr>
 				<div class="helper1">
 					<div class="about col-lg-11">
-						<img class="profile col-lg-3 col-md-3 col-sm-12" src="#" alt="profile foto">
+						<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+							<div class="hex-rotate">
+								<div class="hex-rotate-photo">
+								<img src="http://images.car.bauercdn.com/pagefiles/70754/61_tamo_racemo.jpg">
+								</div>
+							</div>
+						</div>
 						<span class="about-by-img col-lg-9 col-md-9 col-sm-12">
 							<section>
 								<h1>
-									<!-- Eivydas Petryla -->
-									Smith Anderson
+									Eivydas Petryla
 								</h1>
 								<h2 id="about">
-									<!-- Programuotojas, dizaineris, inžinierius-remontininkas -->
-									Ilustrator & Character Designer
+									Programuotojas, dizaineris, inžinierius-remontininkas
 								</h2>
 							</section>
 							<article>
@@ -136,16 +206,14 @@
 					</div>
 				</div>
 			</main>
-			<footer>
+			<footer class="">
 				<div class="footer-top col-lg-12">
 					<div class="contact">
 						<div class="single">
 							<div class="txt-bold">
-								<!-- Get In Touch -->
-							Susisiekime
+								Susisiekime
 							</div>
 							<div class="txt-semiBold">
-								<!-- In order to get in touch use the contact form below: -->
 								Norėdami su manimi susiekti užpildykite žemiau nurodytus duomenis:
 							</div>
 						</div>

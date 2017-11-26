@@ -6,7 +6,7 @@ font-family: 'Maven Pro', sans-serif;
 *{
 	color: #ececec;
 }
-html,body{
+html{
 	padding: 0 auto;
 	margin: 0 auto;
 	height: 100%;
@@ -18,7 +18,6 @@ html,body{
 	}
 	a:hover{
 		text-decoration: none;	
-		/*background-color: rgba(255,255,255,0.2);	*/
 	}
 	/*header,main{
 		height: 100%;
@@ -30,8 +29,8 @@ html,body{
 		width: 100%;
 	}
 	textarea:focus, input:focus{
-    outline: none;
-    width: 100%;
+	    outline: none;
+	    width: 100%;
 	}
 hr{
 	width: 98%;
@@ -64,7 +63,6 @@ nav/*, .items-box*/{
 		left: 1.1rem;
 		transform:scale(0.75);
 	}
-
 		svg:hover {
 		    -webkit-animation:spin 1s linear infinite;
 		    -moz-animation:spin 1s linear infinite;
@@ -102,26 +100,67 @@ nav/*, .items-box*/{
 
 mian{
 }
+	aside{
+
+	}
 	aside>span>img{
 		max-width: 10rem;
 		max-height: 10rem;
 	}
 	.helper1{
-		height: 40vh;
 		background-color: #2eb398;
 		display: flex;
 		justify-content:center;
 	}
-	.about{
-		display: flex;
-		/*justify-content:center;*/
-		flex-direction:row;
-		margin: 1rem 5rem;
-	    border-right: 1px solid #606060;
-	    border-left: 1px solid #606060;
+    .hex-straight:hover{
+        opacity: 0.5;   
+    }
+    .hex-straight{
+    	margin: 0.2rem;
+	    width: 20%;
+	    padding: 0px;
+	    overflow: hidden;
+	    visibility: hidden;
+	    -webkit-transform: rotate(120deg);
+	       -moz-transform: rotate(120deg);
+	        -ms-transform: rotate(120deg);
+	         -o-transform: rotate(120deg);
+	            transform: rotate(120deg);
+    }
+        .hex-rotate{
+		    overflow: hidden;
+		    -webkit-transform: rotate(-60deg);
+		       -moz-transform: rotate(-60deg);
+		        -ms-transform: rotate(-60deg);
+		         -o-transform: rotate(-60deg);
+		            transform: rotate(-60deg);
+    }
+            .hex-rotate-photo{
+                    visibility: visible;
+                    overflow: hidden;
+                    -webkit-transform: rotate(-60deg);
+                       -moz-transform: rotate(-60deg);
+                        -ms-transform: rotate(-60deg);
+                         -o-transform: rotate(-60deg);
+                            transform: rotate(-60deg);
+                            }
+            	.hex-rotate-photo>img{
+                    height: 400px;
+                    width: auto;
 
-	}
-
+            	}
+            	.logo_img img{
+            		height: 441px;
+            		width: auto;
+            	}
+            .about{
+                display: flex;
+                justify-content:center;
+                flex-direction:row;
+                margin: 1rem 5rem;
+                border-right: 1px solid #606060;
+                border-left: 1px solid #606060;
+            }
 		/*section*/
 		section{
 
@@ -149,9 +188,9 @@ mian{
 			position: relative;
 		}
 		.social{
-		background-color: rgba(255, 255, 255, 0.65);
-		position: absolute;
-		right: 0;
+			background-color: rgba(255, 255, 255, 0.65);
+			position: absolute;
+			right: 0;
 		}
 		.social i{
 			color: #2eb398;
@@ -160,22 +199,15 @@ mian{
 		.social i:hover{
 			background-color: #6ccbbe;			
 	}
-	.profile{
-		/*max-*/min-width: 200px;
-		/*max-*/min-height: 300px;
-		background-color: black;
-	}
-
 	/*footer*/
 footer{
-	position: absolute;
-	bottom: 0;	
-	 overflow:hidden;
-
+/*	position: absolute;
+	bottom: 0;	*/
+	 /*overflow:hidden;*/
+}
 	/*
 	del situ eiluciu kyla footerio problemos kai ekranas nera per visa ekrana
 	*/
-}
 	.footer-top{
 		background-color: #303030;
 		display: flex;
