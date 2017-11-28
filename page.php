@@ -12,104 +12,106 @@
 				</span>
 			</div>
 			<main>
-				<aside class="col-lg-11">
-					<div class="three-top">
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+				<div class="helper1">
+					<aside class="col-lg-11">
+						<div class="three-top">
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
 									</div>
 								</div>
-							</div>
-						</span>
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
 									</div>
 								</div>
-							</div>
-						</span>
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
 									</div>
 								</div>
-							</div>
-						</span>
+							</span>
+						</div>
+						<div class="four-center center-block">
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+						</div>
+						<div class="three-bottom center-block">
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+						</div>
+					</aside>
 					</div>
-					<div class="four-center center-block">
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-									</div>
-								</div>
-							</div>
-						</span>
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-									</div>
-								</div>
-							</div>
-						</span>
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-									</div>
-								</div>
-							</div>
-						</span>
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-									</div>
-								</div>
-							</div>
-						</span>
-					</div>
-					<div class="three-bottom center-block">
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-									</div>
-								</div>
-							</div>
-						</span>
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-									</div>
-								</div>
-							</div>
-						</span>
-						<span class="logo_img">
-							<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-								<div class="hex-rotate">
-									<div class="hex-rotate-photo">
-									<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-									</div>
-								</div>
-							</div>
-						</span>
-					</div>
-				</aside>
 				<hr>
 				<div class="helper1">
 					<div class="about col-lg-11">

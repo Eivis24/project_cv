@@ -109,43 +109,40 @@ main{
 		width: 100%;
 	}
 		.three-top{
-/*			position: relative;
-			left: 22.95%;
-			top:10rem;*/
 			width: 100%;
-			align-items: center;
 			display: flex;
 			justify-content: center;
 		}
 		.four-center{
-			/*position: relative;
-			left: 12.325%;*/
 			width: 100%;
-			align-items: center;
 			display: flex;
 			justify-content: center;
 			
 		}
 		.three-bottom{
-			/*position: relative;
-			left: 22.95%;
-			bottom: 10rem;*/
 			width: 100%;
-			align-items: center;
 			display: flex;
 			justify-content: center;
-		}
-		.logo_img{
-			/*width: 100%;*/
 		}
 	/*aside>span>img{
 		max-width: 10rem;
 		max-height: 10rem;
 	}*/
 	.helper1{
-		background-color: #2eb398;
 		display: flex;
 		justify-content:center;
+	}
+	.helper1:first-child{
+		position: relative;
+		left: 3rem;
+		/*height: */
+	}
+	.helper1:last-child{
+		background-color: #2eb398;
+	}
+	.logo_img{
+		transform:scale(0.75);
+
 	}
     .logo_img>.hex-straight:hover{
         opacity: 0.5;   
@@ -160,6 +157,7 @@ main{
     .hex-straight{
     	/*margin: 0.5rem;*/
 	    width: 85%;
+	    height: 100%;
 	    padding: 0px;
 	    overflow: hidden;
 	    /*visibility: hidden;*/
