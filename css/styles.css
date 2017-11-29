@@ -37,13 +37,17 @@ hr{
 }
 /*navbar settings*/
 
-nav/*, .items-box*/{
+nav{
 	display: flex;
 	justify-content:center;
 	align-items:center;
 	font-family: 'Lato', sans-serif;
 	font-weight: 700;
 }
+	.items-box{
+		position: relative;
+		right: 2rem;
+	}
 	#clock{
 		position: absolute;
 		top: 0;
@@ -60,7 +64,7 @@ nav/*, .items-box*/{
 	#styling{
 		position: relative;
 		top: 1.5rem;
-		left: 1.1rem;
+		right: 2rem;
 		transform:scale(0.75);
 	}
 		svg:hover {
@@ -75,7 +79,7 @@ nav/*, .items-box*/{
 	/*po svg iškirptę(trikampiukas)*/
 
 #trikampis{
-	background-color: white;
+	background-color: rgba(0,0,0,0);
 	display: flex;
 	justify-content:space-evenly;
 }
@@ -139,6 +143,10 @@ main{
 	}
 	.helper1:last-child{
 		background-color: #2eb398;
+	}
+	.helper-free{
+	display: flex;	
+	flex-wrap:wrpa;
 	}
 	.logo_img{
 		transform:scale(0.75);
@@ -343,6 +351,13 @@ footer{
 	.footer-bottom{
 		background-color: #202020;
 	}
+main#contact{
+	background-color: #abb32e;
+}
+
+.map{
+	width: 46%;
+}
 
 /*
 	viršutines horizontalias juostas bandyk padaryti naudodamas border ir padding

@@ -1,0 +1,2 @@
+*moved the row and container fluid to head
+*made some contact page look descent (need to set a static folder so that it doesn't change)

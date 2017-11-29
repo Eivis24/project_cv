@@ -1,6 +1,4 @@
 <?php include 'pages/templates/head.view.php' ?>
-	<div class="row">
-		<div class="container-fluid">
 <?php include 'pages/templates/header.view.php' ?>
 			<div id="trikampis">
 				<span class="bulgarke">

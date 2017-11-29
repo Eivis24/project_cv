@@ -2,12 +2,12 @@
 				<nav>
 					<span class="items-box">
 						<span class="item">
-							<a href="page.php">
+							<a href="/codingschool/project_cv/page.php">
 								PORTFOLIO
 							</a>
 						</span>
 						<span class="item">
-							<a href="pages/pvz.php">
+							<a href="/codingschool/project_cv/pages/pvz.php">
 								DARBŲ PAVYZDŽIAI
 							</a>
 						</span>
@@ -19,13 +19,13 @@
 					</span>
 					<span class="items-box">
 						<span class="item">
-							<a href="pages/contacts.php">
+							<a href="/codingschool/project_cv/pages/contacts.php">
 								KONTAKTAI
 							</a>
 						</span>
 						<span class="item">
-							<a href="pages/explain.php">
-								BENDRAM SUVOKIMUI
+							<a href="/codingschool/project_cv/pages/free.php">
+								LAISVALAIKIS
 							</a>
 						</span>
 					</span>
