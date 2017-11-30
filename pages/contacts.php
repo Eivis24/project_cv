@@ -1,15 +1,7 @@
 <?php include 'templates/head.view.php' ?>
 <?php include 'templates/header.view.php' ?>
 <main id="contact">
-		<div id="trikampis">
-		<span class="bulgarke">
-			<div class="divider"></div>
-		</span>
-		<div id="triangle"></div>
-		<span class="bulgarke">
-			<div class="divider"></div>
-		</span>
-	</div>
+	<?php include 'templates/trikampis.php' ?>
 	<div class="container">
 		<div class="list-group">
 			<div class="text col-lg-6 pull-left">

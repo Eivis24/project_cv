@@ -1,16 +1,8 @@
 <?php include 'templates/head.view.php' ?>
 <?php include 'templates/header.view.php' ?>
-<main id+"explain">
-<div id="trikampis">
-	<span class="bulgarke">
-		<div class="divider"></div>
-	</span>
-	<div id="triangle"></div>
-	<span class="bulgarke">
-		<div class="divider"></div>
-	</span>
-</div>
-	<div class="helper-exp">
+<main id="free">
+<?php include 'templates/trikampis.php' ?>
+	<div class="helper-free">
 		<span class="logo_img">
 			<div class="hex-straight">
 				<div class="hex-rotate">
@@ -56,6 +48,9 @@
 				</div>
 			</div>
 		</span>
+	</div>
+	<div class="helper-free">
+		
 	</div>
 </main>
 <?php include 'templates/footer.view.php' ?>

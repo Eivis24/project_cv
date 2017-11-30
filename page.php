@@ -1,15 +1,7 @@
 <?php include 'pages/templates/head.view.php' ?>
 <?php include 'pages/templates/header.view.php' ?>
-			<div id="trikampis">
-				<span class="bulgarke">
-					<div class="divider"></div>
-				</span>
-				<div id="triangle"></div>
-				<span class="bulgarke">
-					<div class="divider"></div>
-				</span>
-			</div>
-			<main>
+			<main id="portfolio">
+<?php include 'pages/templates/trikampis.php' ?>
 				<div class="helper1">
 					<aside class="col-lg-11">
 						<div class="three-top">
@@ -17,7 +9,7 @@
 								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
 									<div class="hex-rotate">
 										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
 										</div>
 									</div>
 								</div>
@@ -26,7 +18,7 @@
 								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
 									<div class="hex-rotate">
 										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
 										</div>
 									</div>
 								</div>
@@ -35,56 +27,18 @@
 								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
 									<div class="hex-rotate">
 										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-										</div>
-									</div>
-								</div>
-							</span>
-						</div>
-						<div class="four-center center-block">
-							<span class="logo_img">
-								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-									<div class="hex-rotate">
-										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-										</div>
-									</div>
-								</div>
-							</span>
-							<span class="logo_img">
-								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-									<div class="hex-rotate">
-										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-										</div>
-									</div>
-								</div>
-							</span>
-							<span class="logo_img">
-								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-									<div class="hex-rotate">
-										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
-										</div>
-									</div>
-								</div>
-							</span>
-							<span class="logo_img">
-								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
-									<div class="hex-rotate">
-										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
 										</div>
 									</div>
 								</div>
 							</span>
 						</div>
-						<div class="three-bottom center-block">
+						<div class="four-center ">
 							<span class="logo_img">
 								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
 									<div class="hex-rotate">
 										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
 										</div>
 									</div>
 								</div>
@@ -93,7 +47,7 @@
 								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
 									<div class="hex-rotate">
 										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
 										</div>
 									</div>
 								</div>
@@ -102,7 +56,45 @@
 								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
 									<div class="hex-rotate">
 										<div class="hex-rotate-photo">
-										<img src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+						</div>
+						<div class="three-bottom ">
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
+										</div>
+									</div>
+								</div>
+							</span>
+							<span class="logo_img">
+								<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
+									<div class="hex-rotate">
+										<div class="hex-rotate-photo">
+										<img class='photo-size' src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
 										</div>
 									</div>
 								</div>
@@ -113,19 +105,14 @@
 				<hr>
 				<div class="helper1">
 					<div class="about col-lg-11">
-
-
 						<div class="hex-straight col-lg-3 col-md-3 col-sm-12">
 							<div class="hex-rotate">
 								<div class="hex-rotate-photo">
-									<img class="center-block" src="http://www.marcobrianza.it/wp-content/uploads/2016/11/pretty_random-400x400.jpg">
+									<img src="https://pbs.twimg.com/profile_images/875356994953027585/RbM85gFY_400x400.jpg">
 								</div>
 							</div>
 						</div>
-
-
 						<span class="about-by-img col-lg-9 col-md-9 col-sm-12">
-
 							<section>
 								<h1>
 									Random Randomness
@@ -134,7 +121,6 @@
 									VANOS, AVCS, VVT, VTEC, VTC and something more.
 								</h2>
 							</section>
-
 							<article>
 								<h3>
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -164,7 +150,6 @@
 							</article>
 						</span>
 					</div>
-					
 				</div>
 			</main>
 <?php include 'pages/templates/footer.view.php' ?>

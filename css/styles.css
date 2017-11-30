@@ -76,35 +76,37 @@ nav{
 		@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
 		@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
-	/*po svg iškirptę(trikampiukas)*/
-
-#trikampis{
-	background-color: rgba(0,0,0,0);
-	display: flex;
-	justify-content:space-evenly;
-}
-	.bulgarke{
-		width: 45%;
-		max-width: 45%;
-	}
-		.divider{
-			position: relative;
-			top: 1rem;
-			border: 1px solid #e4e9eb;
-		}
-	#triangle{
-		width: 0; 
-		height: 0; 
-		border-left: 4.5rem solid transparent;
-		border-right: 4.5rem solid transparent; 
-		border-top: 3rem solid #303030;
-	}
-
+	
 	/*main*/
+
+
 
 main{
 	width: 100%;
 }
+
+	/*po svg iškirptę(trikampiukas)*/
+	
+	#trikampis{
+		background-color: rgba(0,0,0,0);
+		display: flex;
+		justify-content:space-evenly;
+	}
+		.bulgarke{
+			width: 45%;
+		}
+			.divider{
+				position: relative;
+				top: 1rem;
+				border: 1px solid #e4e9eb;
+			}
+		#triangle{
+			width: 0; 
+			height: 0; 
+			border-left: 4.5rem solid transparent;
+			border-right: 4.5rem solid transparent; 
+			border-top: 3rem solid #303030;
+		}
 	aside{
 		display: flex;
 		flex-direction:column;
@@ -120,51 +122,40 @@ main{
 		.four-center{
 			width: 100%;
 			display: flex;
-			justify-content: center;
-			
+			justify-content: center;	
 		}
 		.three-bottom{
 			width: 100%;
 			display: flex;
 			justify-content: center;
 		}
-	/*aside>span>img{
-		max-width: 10rem;
-		max-height: 10rem;
-	}*/
 	.helper1{
 		display: flex;
 		justify-content:center;
-	}
-	.helper1:first-child{
 		position: relative;
 		left: 3rem;
-		/*height: */
 	}
 	.helper1:last-child{
 		background-color: #2eb398;
+		left: 0;
 	}
 	.helper-free{
 	display: flex;	
 	flex-wrap:wrpa;
 	}
-	.logo_img{
-		transform:scale(0.75);
-
-	}
-    .logo_img>.hex-straight:hover{
+    .logo_img .hex-rotate-photo:hover{
         opacity: 0.5;   
         padding: 0;
     }
     /*
 	image size must be defined and the image must be square(a*a, and not a*b)
     */
-    .about .hex-straight{
+    /*.about .hex-straight{
     	width: 21%;
-    }
+    }*/
     .hex-straight{
-    	/*margin: 0.5rem;*/
-	    width: 85%;
+    	margin: 0.5rem;
+	    width: 83%;
 	    height: 100%;
 	    padding: 0px;
 	    overflow: hidden;
@@ -174,8 +165,10 @@ main{
 	        -ms-transform: rotate(120deg);
 	         -o-transform: rotate(120deg);
 	            transform: rotate(120deg);
+ 
     }
         .hex-rotate{
+        	height: 100%;
 		    overflow: hidden;
 		    -webkit-transform: rotate(-60deg);
 		       -moz-transform: rotate(-60deg);
@@ -186,6 +179,7 @@ main{
             .hex-rotate-photo{
             	display: flex;
             	justify-content:center;
+            	height: 100%;
                 visibility: visible;
                 overflow: hidden;
                 -webkit-transform: rotate(-60deg);
@@ -194,12 +188,12 @@ main{
                      -o-transform: rotate(-60deg);
                         transform: rotate(-60deg);
                         }
-            	.hex-rotate-photo>img{
+            	/*.hex-rotate-photo>img{
             		width: 40rem;
             		margin: 0;
-            		/*default width must be 400px*400px for lg,
-            		330px for md, 256px for sm, 160 for xs(480p)*/
-            	}
+            		default width must be 400px*400px for lg,
+            		330px for md, 256px for sm, 160 for xs(480p)
+            	}*/
             .about{
                 display: flex;
                 justify-content:center;
