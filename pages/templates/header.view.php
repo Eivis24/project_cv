@@ -2,7 +2,7 @@
 	<nav>
 		<span class="items-box">
 			<span class="item">
-				<a href="/codingschool/project_cv/page.php">
+				<a href="/codingschool/project_cv/index.php">
 					PORTFOLIO
 				</a>
 			</span>
